@@ -6,6 +6,6 @@ def leapYear(year):
     else:
         return "Not a Leap Year"
 
-if __name_ == "__main__":
+if __name__ == "__main__":
     year = int(sys.argv[1])
     print(leapYear(year))
